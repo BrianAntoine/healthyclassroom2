@@ -1,9 +1,13 @@
+.container {
+    margin:0 auto; /* this will center the page */
+    width:960px; /*  use your width here */
+ }
 body{
      background: grey;
     
 }
 
-.button{
+.button1{
         background-color: black;
     border: none;
     color: white;
@@ -16,3 +20,37 @@ body{
     cursor: pointer;
     
 }
+
+div.a{
+    text-align: center;
+}
+div.b{
+    text-align: justify; 
+}
+div.c{
+    text-align: justify;
+}
+div.d{
+    text-align: justify;
+}
+div.e{
+    text-align: justify;
+}
+div.f{
+    text-align: justify;
+}
+div.g{
+    text-align: justify;
+}
+iframe {
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 0 auto;
+    border: 0;
+}
+h1 {
+    font-weight: bold;
+    font-size: 58px;
+  }
+  
