@@ -3,7 +3,7 @@
     width:960px; /*  use your width here */
  }
 body{
-     background: grey;
+     background: white;
     
 }
 
@@ -43,14 +43,22 @@ div.g{
     text-align: justify;
 }
 iframe {
+    
+}
+h1 {
+    font-weight: bold;
+    font-size: 58px;
+  }
+
+  div.j{
     display: block;
     width: 800px;
     height: 400px;
     margin: 0 auto;
     border: 0;
-}
-h1 {
-    font-weight: bold;
-    font-size: 58px;
+    padding-left: 260px;
+ 
+
+
   }
   
